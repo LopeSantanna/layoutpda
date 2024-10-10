@@ -1,13 +1,16 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 nav{
     text-align: center;
     margin-top: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 nav a{
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -15,7 +18,8 @@ nav a{
     font-size:25pt;
     position: relative;
 }
-/*pseu elemento(um elemento dentro de outro elemento*/
+
+/*pseudo elemento(um elemento dentro de outro elemento*/
 nav a::after{
     content: " ";/*conteudo do */
     width: 0%;/*tamanha do efieto no começo */
@@ -26,6 +30,7 @@ nav a::after{
     left: 0;
     transition: 0,5s ease-in-out;/* transoção*/
 }
+
 /*interação com o mouse nos link*/
 nav a:hover::after{
     width:100%;
