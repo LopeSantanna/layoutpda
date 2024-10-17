@@ -11,7 +11,7 @@ nav{
 }
 
 nav a{
-    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0.858);
     text-decoration: none;
     padding: 0px 50px 10px 0;
     font-size:25pt;
