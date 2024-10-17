@@ -1,0 +1,7 @@
+#header{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgba(53, 53, 141, 0.672);
+   border:solid #000 2px;
+    height: 60px;
+}
