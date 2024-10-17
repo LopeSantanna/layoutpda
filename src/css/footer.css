@@ -1,0 +1,10 @@
+footer{
+    padding-top: px;   
+    display: flex;
+    align-items: center;
+    background-color: rgba(53, 53, 141, 0.672);
+    border: solid #000 2px;
+    height: 30px;
+    flex-direction: column-reverse;
+}
+
