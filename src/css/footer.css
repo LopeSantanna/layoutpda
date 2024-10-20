@@ -1,5 +1,5 @@
-footer{
-    padding-top: px;   
+{
+    padding-top:px;   
     display: flex;
     align-items: center;
     background-color: rgba(53, 53, 141, 0.672);
@@ -9,5 +9,6 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
+    
 }
 
