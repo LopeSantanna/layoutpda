@@ -1,0 +1,45 @@
+.father{
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #202E2E;
+    gap: 90px; 
+    margin-top: 25px;
+    
+}
+.one{
+    background-color: #F0F0F0;
+    border-radius: 10px;
+    height: 250px;
+    width: 480px;
+    
+}
+.two{
+    background-color: #F0F0F0;
+    border-radius: 10px;
+    height: 250px;
+    width: 480px;
+}
+.tree{
+    background-color: #F0F0F0;
+    border-radius: 10px;
+    height: 250px;
+    width: 480px;
+}
+
+body{
+    background-color: #202E2E;
+    
+}
+#ter{
+margin-top: 70px;
+}
+footer{
+margin-top:px;
+}
+#yu{
+    margin-left: 440px;
+    
+}
+
